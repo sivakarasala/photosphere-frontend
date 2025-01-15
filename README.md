@@ -1,16 +1,14 @@
-# React + Parcel template
+# Photosphere frontend
 
-A simple project template that is a starting point for frontend development with React.
+Built on [React](https://reactjs.org/) and bundled with [Parcel](https://parceljs.org/).
 
-You can also use this template as a testbed to experiement with JavaScript and React code.
 
-This code was created during a [live stream](https://youtu.be/T1c6Rp9ijUA) to support the book [Rapid Fullstack Development](https://rapidfullstackdevelopment.com/).
-
-Follow on [Twitter](https://twitter.com/codecapers) for updates.
 
 ## Pre-reqs
 
 You need [Node.js](https://nodejs.org/) installed to run this code.
+
+To run this frontend you must first run the backend available here: https://github.com/sivakarasala/photosphere-backend
 
 ## Setup
 
